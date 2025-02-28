@@ -21,7 +21,7 @@ personal portfolio website that showcases my skills, projects, and accomplishmen
 This website can be used to present your professional profile, showcase your projects, and provide a way for potential employers or clients to contact you. Customize the content to reflect your own skills, projects, and experiences.
 
 ## Link of the project
- link : https://github.com/22FE1A6146/PRODIGY_WD_04
+ link : https://github.com/sumagudipalli/Prodigy-Infotech4
 
 
 ## Screenshot of the Website
