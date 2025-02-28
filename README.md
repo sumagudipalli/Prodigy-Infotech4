@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# Prodigy-Infotech4
 # PERSONAL PORTFOLIO WEBSITE
 
 ## Description
@@ -25,5 +25,6 @@ This website can be used to present your professional profile, showcase your pro
 
 
 ## Screenshot of the Website
+![Screenshot](https://github.com/user-attachments/assets/3aa0431e-cf8d-4dd9-a98d-8ab99a66fe87)
 
-![Screenshot (13)]<img width="955" alt="output4" src="https://github.com/user-attachments/assets/87d8aa86-ab28-4447-ae12-1c8fb399f238">
+
